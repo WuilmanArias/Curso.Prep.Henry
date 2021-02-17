@@ -1,0 +1,2 @@
+ARRAY: Son un conjunto de arreglo de datos los cuales van en una sola variable, dichos datos pueden ser accedidos por medio de un numero llamado indice el cual comienza 0.
+la variable array puede contener diferentes tipos de datos (números, string o boléanos).  
