@@ -1,0 +1,7 @@
+-for: es un bucle en el cual se inicializa una variable y se repite tantas veces hasta que la condicion sea falsa. 
+
+-&&: Este operador es el Y y se ejecutara cuando las dos condiciones o valores son verdaderos
+
+-||:  Este operador es el O y se ejecutara cuando una de las dos condiciones o valores son verdaderos
+
+- !: Este operador de comparacion es la negacion olo contrario de ana expresion, ejemplo si algo es verdadero, su negacion es falso. 

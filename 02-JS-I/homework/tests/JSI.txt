@@ -1,0 +1,9 @@
+- Variables: Esun espacio dememoria que permite almacenar un valor para luego utilizarlo
+
+- Strings: Es un tipo de dato, que en este caso significa que la variable esun strings de carateres.
+
+- Funciones (argumentos, return): Las funciones nos permite hacer un trabajo o tareas especificas, que nos facilitaria no tener que repetir tanto codigo. Se le puede pasar argumentos o no, y puede retornar un valor o no, y sepuede decir que son un tipo de particular de objetos a los cuales se tiene acceso almomento de emvocar cuantas veces lo necesitemos
+
+- Declaraciones if: Es un operador de control deflujo, el evalua una o varias condiciones y dpendiendo del valor el efectuara un proceso o otro. El valor de la verificacion solo tiene dos posibilidads (True o false).
+
+- Valores booleanos (true, false): Estos valores solo pueden tener dos conndiciones, o verdadero o falso, mas no los dos a la vez. Es como comparar el estado de una bomnilla, o esta apagado o esta encendido.
