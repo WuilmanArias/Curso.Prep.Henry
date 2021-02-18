@@ -1,0 +1,10 @@
+
+*- Objetos: Son una colección de datos, las cuales se tiene acceso con una clave valor (Key:Value) 
+
+*- Propiedades: son los datos  que contienen los objetos los cuales tienen un nombre y un valor, estos valores pueden ser de cualquier tipo, String, numérico, boleano, arrays, funciones.
+
+*- Métodos: Son propiedades de tipo función de los objetos
+
+*- Bucle for…in: Es como el for normal pero sirve para recorrer los objetos
+
+*- Notación de puntos vs notación de corchetes: Son dos formas de acceder a las propiedades de los objetos. Con los puntos solo accedemos si conocemos el nombre del objeto y la clave, pero con corchetes podemos acceder con una variable que tenga el valor asociado al nombre del objeto y este debe estar entre comillas.
