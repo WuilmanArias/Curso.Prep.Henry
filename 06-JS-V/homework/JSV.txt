@@ -1,0 +1,3 @@
+*-prototype: Es la forma de heredar propiedades y metodos, permite la no repeticion de codigo, ya que pueden ser utilizadas algunas caracteristicas del objetos alcualestan aputando.
+ 
+Constructors (de Clases): Las clases nos permiten armar una plantilla, las cuales al crear un objeto,podemos acceder a  los metodos de las clases.
